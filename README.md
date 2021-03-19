@@ -1,7 +1,7 @@
 # Hey! | Olá! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor_Campos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-campos-54217516b/)](https://www.linkedin.com/in/victor-campos-54217516b/) 
-[![Twitter Badge](https://img.shields.io/badge/-@v__cmps-00acee?style=flat&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/v_cmpsm)](https://twitter.com/v_cmpsm) 
+[![Twitter Badge](https://img.shields.io/badge/-@v__cmpsm-00acee?style=flat&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/v_cmpsm)](https://twitter.com/v_cmpsm) 
 [![Instagram Badge](https://img.shields.io/badge/-@v__cmps-de1b85?style=flate&labelColor=de1b85&logo=instagram&logoColor=white&link=https://instagram.com/v_cmps)](https://instagram.com/v_cmps) 
 
 👦 My name is Victor Campos, I was born and live in Brazil. I have a bachelor's degree in graphic design from the united metropolitan colleges and study internet systems at FATEC São Roque.
